@@ -82,7 +82,7 @@ export function About() {
               <div className="relative w-full h-full bg-gray-800 rounded-3xl overflow-hidden border border-white/10">
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="text-center">
-                    <img src="pp.jpg" alt="Photo Profile" />
+                    <img src="PP.jpg" alt="Photo Profile" />
                   </div>
                 </div>
               </div>
