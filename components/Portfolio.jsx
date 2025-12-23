@@ -73,6 +73,16 @@ export function Portfolio() {
       github: 'https://github.com/Tepan223/Stevanus_Movie_Collection_gsap_part_2.git',
       demo: 'https://movie-collection-six-ecru.vercel.app/',
     },
+    {
+      id: 7,
+      title: 'Web Marketing - Techno Lens',
+      category: 'web',
+      description: 'Membuat Website penjualan untuk startup Techno Lens dengan Next.js, Vercel, dan GSAP',
+      image: 'Port7.jpg',
+      tech: ['Next.js', 'Vercel', 'JavaScript', 'GSAP', 'Blob', 'Ant Design', 'Figma', 'Swiper', 'API Integration'],
+      github: 'https://github.com/Tepan223/techno-lens',
+      demo: 'https://techno-lens.vercel.app/',
+    },
   ];
 
 //   const categories = [
